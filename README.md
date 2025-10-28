@@ -98,8 +98,7 @@ int main(int argc, char *argv[]) {
 
 ## OUTPUT
 
-
-file:///home/administrator/Pictures/Screenshots/Screenshot%20from%202025-10-28%2022-13-19.png
+<img width="481" height="241" alt="Screenshot from 2025-10-28 22-13-19" src="https://github.com/user-attachments/assets/0fb8681f-ba07-4598-b734-c5f957c48c07" />
 
 
 # RESULT:
